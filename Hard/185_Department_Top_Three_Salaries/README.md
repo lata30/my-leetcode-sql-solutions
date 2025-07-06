@@ -1,6 +1,7 @@
 🎯𝐏𝐫𝐨𝐛𝐥𝐞𝐦: 
 
 Department Top Three Salaries (LeetCode #𝟏𝟖𝟓)
+https://leetcode.com/problems/department-top-three-salaries/description/
 
 📌𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:
 
