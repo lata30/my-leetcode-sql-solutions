@@ -1,5 +1,6 @@
 
-🎯𝐏𝐫𝐨𝐛𝐥𝐞𝐦: Department Top Three Salaries (LeetCode #𝟏𝟖𝟓)
+🎯𝐏𝐫𝐨𝐛𝐥𝐞𝐦: 
+Department Top Three Salaries (LeetCode #𝟏𝟖𝟓)
 
 📌 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:
  The task is to identify the top 3 unique highest salaries within each department of a company.
@@ -9,9 +10,8 @@
 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭: Maps departmentId to department names
 
 ✅ 𝐄𝐱𝐩𝐞𝐜𝐭𝐞𝐝 𝐎𝐮𝐭𝐩𝐮𝐭:
- For each department, return the top 3 earners by unique salary values, including ties. Example:
-
- If the top 3 salaries in a department are: 90k, 85k (2 people), 70k, then all 4 employees should be included.
+ For each department, return the top 3 earners by unique salary values, including ties. 
+ Example:If the top 3 salaries in a  department are: 90k, 85k (2 people), 70k, then all 4 employees should be included.
 
 🔍 𝐊𝐞𝐲 𝐒𝐐𝐋 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐔𝐬𝐞𝐝:
 𝐃𝐄𝐍𝐒𝐄_𝐑𝐀𝐍𝐊(): to handle unique salaries
