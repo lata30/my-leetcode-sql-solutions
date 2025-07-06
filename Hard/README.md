@@ -1,8 +1,7 @@
-
 🎯𝐏𝐫𝐨𝐛𝐥𝐞𝐦: 
 Department Top Three Salaries (LeetCode #𝟏𝟖𝟓)
 
-📌 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:
+📌𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:
  The task is to identify the top 3 unique highest salaries within each department of a company.
 
 📂 𝐓𝐚𝐛𝐥𝐞𝐬 𝐈𝐧𝐯𝐨𝐥𝐯𝐞𝐝:
