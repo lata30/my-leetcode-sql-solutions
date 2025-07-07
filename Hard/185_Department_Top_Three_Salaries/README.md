@@ -38,3 +38,6 @@ It helped me see how 𝐃𝐄𝐍𝐒𝐄_𝐑𝐀𝐍𝐊() lets us compare row
 I'm now more confident in spotting situations where 𝐆𝐑𝐎𝐔𝐏 𝐁𝐘 might not be the right choice if I need detailed data.
 
 🚀 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒐𝒏𝒆 𝒒𝒖𝒆𝒓𝒚 𝒂𝒕 𝒂 𝒕𝒊𝒎𝒆 𝒕𝒐 𝒈𝒓𝒐𝒘 𝒊𝒏𝒕𝒐 𝒂 𝒃𝒆𝒕𝒕𝒆𝒓 𝒅𝒂𝒕𝒂 𝒕𝒉𝒊𝒏𝒌𝒆𝒓.
+
+![image](https://github.com/user-attachments/assets/8f1bc2b9-c7dd-4ec5-99d1-7b021fece976)
+
