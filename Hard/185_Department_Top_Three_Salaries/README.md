@@ -11,6 +11,7 @@ https://leetcode.com/problems/department-top-three-salaries/description/
 📂 𝐓𝐚𝐛𝐥𝐞𝐬 𝐈𝐧𝐯𝐨𝐥𝐯𝐞𝐝:
 
 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞: Stores employee details, including salary and departmentId
+
 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭: Maps departmentId to department names
 
 ✅ 𝐄𝐱𝐩𝐞𝐜𝐭𝐞𝐝 𝐎𝐮𝐭𝐩𝐮𝐭:
@@ -21,8 +22,11 @@ https://leetcode.com/problems/department-top-three-salaries/description/
 🔍 𝐊𝐞𝐲 𝐒𝐐𝐋 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐔𝐬𝐞𝐝:
 
 𝐃𝐄𝐍𝐒𝐄_𝐑𝐀𝐍𝐊(): to handle unique salaries
+
 𝐏𝐀𝐑𝐓𝐈𝐓𝐈𝐎𝐍 𝐁𝐘: to group by department
+
 𝐉𝐎𝐈𝐍: to get department names
+
 𝐅𝐈𝐋𝐓𝐄𝐑: to restrict output to top 3 salaries
 
 💡 𝐖𝐡𝐚𝐭 𝐈 𝐋𝐞𝐚𝐫𝐧𝐞𝐝:
