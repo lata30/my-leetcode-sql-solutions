@@ -24,6 +24,7 @@ The output should include each person's first name, last name, city, and state. 
 🔍 𝐊𝐞𝐲 𝐒𝐐𝐋 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐔𝐬𝐞𝐝:
 
 𝐓𝐚𝐛𝐥𝐞 𝐀𝐥𝐢𝐚𝐬𝐢𝐧𝐠: This shortens table references and improves readability.
+
 𝐋𝐄𝐅𝐓 𝐉𝐎𝐈𝐍: Ensures all records from Person are included, even if there's no matching row in Address.
 
 
