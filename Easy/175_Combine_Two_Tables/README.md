@@ -12,6 +12,7 @@ The task is to show the first name, last name, city, and state for each person f
 📂 𝐓𝐚𝐛𝐥𝐞𝐬 𝐈𝐧𝐯𝐨𝐥𝐯𝐞𝐝:
 
 𝐏𝐞𝐫𝐬𝐨𝐧: stores person details  - personId, firstName, lastName
+
 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: stores address details - addressId, personId, city, state
 
 
